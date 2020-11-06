@@ -322,6 +322,9 @@
 }
 }
 @media only screen and (max-width: 700px) {
+.navbar img {
+  margin-left: 0px;
+}
 .navbar-nav {
   display: none !important;
 }
@@ -332,6 +335,10 @@
     flex-direction: column;
     margin-top: 70px;
     margin-bottom: 40px;
+}
+.side-content {
+  margin: auto;
+  width: 93vw;
 }
 .sketch-container {
   top: 8px;
