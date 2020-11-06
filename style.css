@@ -343,10 +343,11 @@
 .sketch-container {
   top: 8px;
   right: 8px;
-  width: 80px;
+  width: 82px;
   height: 40px;
 }
 .sketch-container p {
+  padding-top: 15px;
   font-size: 14px;
 }
 .color-palette {
