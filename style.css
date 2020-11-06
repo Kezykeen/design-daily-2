@@ -333,6 +333,15 @@
     margin-top: 70px;
     margin-bottom: 40px;
 }
+.sketch-container {
+  top: 8px;
+  right: 8px;
+  width: 80px;
+  height: 40px;
+}
+.sketch-container p {
+  font-size: 14px;
+}
 .color-palette {
     padding: 30px 60px;
     margin-bottom: 0px;
